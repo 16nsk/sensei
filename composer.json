@@ -1,5 +1,23 @@
 {
-    "require-dev": {
-        "apigen/apigen": "*"
-    }
+  "name": "mgiworx/sensei",
+  "type": "wordpress-plugin",
+  "license": "GPL-2",
+  "description": "A learning management plugin for WordPress, which provides the smoothest platform for helping you teach anything.",
+  "homepage": "https://www.woothemes.com/products/sensei/",
+  "authors": [
+    {
+      "name": "WooThemes",
+      "email": ,
+      "homepage": "http://www.woothemes.com/"
+    },
+  ],
+  "keywords": [
+    "sensei", "lms", "wordpress", "wp"
+  ],
+  "require": {
+    "php": ">=5.6"
+  },
+  "require-dev": {
+      "apigen/apigen": "*"
+  }
 }
